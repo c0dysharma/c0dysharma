@@ -9,7 +9,7 @@ I am learning about computers and programming every day. I have experience in ma
 *   🌍  I'm based in New Delhi.
 *   🖥️  See my portfolio at [Protfolio.](http://c0dysharma.github.io)
 *   ✉️  You can contact me at [codysharma01@gmail.com](mailto:codysharma01@gmail.com)
-*   🧠  I'm learning MERN and Flutter.
+*   🧠  I'm Backend developer in Node.js, Express.js and MongoDB.
 *   🤝  I'm open to collaborating on Interesting Projects.
 *   ⚡  Hip Hop lover.
 
